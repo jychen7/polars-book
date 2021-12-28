@@ -65,7 +65,7 @@ df.loc[(df['sqft_living'] > 2500) & (df['price'] < 300000)]
 
 ```python
 df.filter(
-    (pl.col("m2_living") > 2500) & (pl.col("price") < 300000)
+    (pl.col("sqft_living") > 2500) & (pl.col("price") < 300000)
 )
 ```
 
