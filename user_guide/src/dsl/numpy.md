@@ -19,4 +19,4 @@ print(out)
 
 ## Gotcha's
 
-Read more about the [gotcha's here](/howcani/interop/numpy.html)
+Read more about the [gotcha's here](/polars-book/user-guide/howcani/interop/numpy.html)
